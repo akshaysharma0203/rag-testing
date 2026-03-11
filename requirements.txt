@@ -1,0 +1,12 @@
+openai
+dotenv
+gradio
+tiktoken
+plotly
+scikit-learn
+matplotlib
+langchain
+langchain-community
+langchain-huggingface
+sentence_transformers
+langchain-chroma
