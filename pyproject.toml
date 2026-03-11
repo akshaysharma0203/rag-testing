@@ -1,0 +1,21 @@
+[project]
+name = "rag-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=6.9.0",
+    "langchain>=1.2.11",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-huggingface>=1.2.1",
+    "matplotlib>=3.10.8",
+    "openai>=2.26.0",
+    "plot>=0.6.5",
+    "plotly>=6.6.0",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.2.3",
+    "tiktoken>=0.12.0",
+]
