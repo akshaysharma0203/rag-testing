@@ -11,3 +11,5 @@ langchain-huggingface
 sentence_transformers
 langchain-chroma
 langchain-openai
+litellm
+chromadb
